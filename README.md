@@ -5,6 +5,9 @@ Documentation link: https://docs.google.com/document/d/1uPnkf4nXSSlwsagDgh5_fqzU
 
 
 link to DataSet:
+
 task 1 - https://www.kaggle.com/datasets/ineubytes/heart-disease-dataset
-task 2 - 
-major task -
+
+task 2 - https://www.kaggle.com/datasets/ineubytes/pm25-airpolution-dataset
+
+Major task - https://www.kaggle.com/datasets/ineubytes/online-retail-ecommerce-dataset
